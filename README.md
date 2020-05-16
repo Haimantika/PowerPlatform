@@ -4,3 +4,5 @@ From formulas to learning paths to tutorial videos by me.
  - You can find formulas at PowerApps/formulas.md
  - For introductory video on power apps: https://youtu.be/i_WlGYKx1bY
  - A blog highlighting the beauty of Power Apps: http://shorturl.at/oINY7
+
+Reference: https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference

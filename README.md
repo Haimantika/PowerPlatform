@@ -10,4 +10,5 @@ From formulas to learning paths to tutorial videos by every Power Platform enthu
  - For blogs: ```
               PowerApps/blogs/info.md
               ```
-
+ Contributors: @mritunjaysharma394 @Hemshree100
+ 

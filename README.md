@@ -10,5 +10,5 @@ From formulas to learning paths to tutorial videos by every Power Platform enthu
  - For blogs: ```
               PowerApps/blogs/info.md
               ```
- - Contributors: Hemshree [https://github.com/Hemshree100] Mritunjay [https://github.com/mritunjaysharma394]
+ - Contributors: [Hemshree] (https://github.com/Hemshree100) [Mritunjay] (https://github.com/mritunjaysharma394)
  

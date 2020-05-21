@@ -692,4 +692,4 @@ LanguageTag - Optional. The language tag in which to parse the string. If not sp
 
 Record – Required. The record to be acted upon. For names values, use the inline syntax { name1: value1, name2: value2, ... }
 Formula – Required. The formula to evaluate for Record. The formula can reference any of the fields of Record directly as a record scope.
-**Reference: https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference
+- **Reference: https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference**

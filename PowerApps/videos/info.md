@@ -2,3 +2,4 @@
 - For introductory video on PowerApps: https://youtu.be/i_WlGYKx1bY
 - Video on integrating flows in PowerApps: 
 https://youtu.be/f210FZQRcZ0
+- Integrating power virtual agents quickly: https://youtu.be/uWjgjaTAtII

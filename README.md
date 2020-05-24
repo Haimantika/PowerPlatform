@@ -11,10 +11,10 @@ From formulas to learning paths to tutorial videos by every Power Platform enthu
  - You can find formulas at [PowerApps/formulas.md](PowerApps/formulas.md)
  - For introductory video on power apps: [PowerApps/videos/info.md](PowerApps/videos/info.md)
  - For blogs: [PowerApps/blogs/info.md](PowerApps/blogs/info.md)
- - Zip file of PowerApps created by me can be found at: [PowerApps/Apps](PowerApps/Apps)
+ - Zip file of PowerApps created by me can be found at: [PowerApps/App](PowerApps/App)
  
  
- - Contributors: [Haimantika](https://github.com/Haimantika) [Hemshree](https://github.com/Hemshree100) [Mritunjay](https://github.com/mritunjaysharma394)
+ - Contributors: [Haimantika](https://github.com/Haimantika) [Hemshree](https://github.com/Hemshree100) [Mritunjay](https://github.com/mritunjaysharma394) 
  
  
  

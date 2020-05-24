@@ -1,4 +1,4 @@
-### Anyone wiling to contribute is most welcomed. 
+### Anyone wiling to contribute is most welcome.
 
 Just add your name and profile pic at the **end** of this file before making any Pull Request. 
 Make sure to follow the pattern while adding your name. 

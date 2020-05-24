@@ -16,9 +16,9 @@ From formulas to learning paths to tutorial videos by every Power Platform enthu
  
  
 
-##### To contribute follow the guidelines in [Contributors.md](Contributors.md)
+##### To contribute follow the guidelines in [Contributors.md](Contributor.md)
  
  
  
- **Everyone is welcome to [contribute](Contributors.md). Let us spread the word #LessCodeMorePower**
+ **Everyone is welcome to [contribute](Contributor.md). Let us spread the word #LessCodeMorePower**
 

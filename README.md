@@ -18,5 +18,5 @@ From formulas to learning paths to tutorial videos by every Power Platform enthu
  
  
  
- **Everyone is welcome to contribute. Let us spread the word** 
- ## LessCodeMorePower
+ **Everyone is welcome to contribute. Let us spread the word #LessCodeMorePower**
+

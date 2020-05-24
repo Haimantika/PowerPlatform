@@ -5,4 +5,4 @@ Nowadays, companies deal with huge amounts of data. Being able to make data driv
 
 Microsoft Power BI is a data analytics tool by which we can connect across various daat sources, undertake analytics and share insights.
 
-[Power BI](https://youtu.be/yKTSLffVGbk) 
+[Power BI](https://youtu.be/yKTSLffVGbk) (Right Click and open in new tab). 

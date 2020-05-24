@@ -24,4 +24,8 @@ It is always encouraged to open an [Issue](https://github.com/Haimantika/PowerPl
 
 ![Mritunjay's Profile Pic](https://avatars0.githubusercontent.com/u/45476902?s=460&u=83eaedb20db986ca49b1eabdf0c2594c6dd9d15c&v=4)
 
++ [Prateek Majumder](https://github.com/prateekmaj21)
+
+![Prateek's Profile Pic](https://avatars0.githubusercontent.com/u/52664250?s=400&u=9439d2d88673f0b9c942b13a2887c6a41e827be0&v=4)
+
 ***

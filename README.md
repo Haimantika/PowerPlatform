@@ -14,9 +14,11 @@ From formulas to learning paths to tutorial videos by every Power Platform enthu
  - Zip file of PowerApps created by me can be found at: [PowerApps/App](PowerApps/App)
  
  
- - Contributors: [Haimantika](https://github.com/Haimantika) [Hemshree](https://github.com/Hemshree100) [Mritunjay](https://github.com/mritunjaysharma394) 
+ 
+
+##### To contribute follow the guidelines in [Contributors.md](Contributors.md)
  
  
  
- **Everyone is welcome to contribute. Let us spread the word #LessCodeMorePower**
+ **Everyone is welcome to [contribute](Contributors.md). Let us spread the word #LessCodeMorePower**
 

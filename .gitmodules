@@ -1,0 +1,3 @@
+[submodule "PowerApps/PowerAppsComponents/ms-learn-pcf-folder"]
+	path = PowerApps/PowerAppsComponents/ms-learn-pcf-folder
+	url = https://github.com/mritunjaysharma394/ms-learn-pcf-folder

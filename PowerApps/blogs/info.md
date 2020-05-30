@@ -9,3 +9,4 @@ This file contains all the links to useful blogs written by learners.
  
 - [Object detection in PowerApps](https://medium.com/@haimantikamitra/object-detection-in-powerapps-e3eac2e07875) by @Haimantika
 - [Getting Started With Common Data Service](https://medium.com/@haimantikamitra/getting-started-with-common-data-service-193f6c03ce0) by @Haimantika
+- [Mixed Reality in PowerApps](https://medium.com/@haimantikamitra/mixed-reality-in-powerapps-310b5174422b) by @Haimantika

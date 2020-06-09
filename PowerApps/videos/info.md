@@ -16,5 +16,5 @@
 
 
 ### Adding Mixed Reality to PowerApps:
-[![How to add Mixed Reality feature to PowerApps](https://img.youtu.be/vi/2PzYvvmtAVs/0.jpg)](https://youtu.be/2PzYvvmtAVs "How to add Mixed Reality feature to PowerApps.")
+[![How to add Mixed Reality feature to PowerApps](https://img.youtube.com/vi/2PzYvvmtAVs/0.jpg)](https://youtu.be/2PzYvvmtAVs "How to add Mixed Reality feature to PowerApps.")
 

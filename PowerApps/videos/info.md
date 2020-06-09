@@ -13,3 +13,8 @@
 ### Integrating power virtual agents quickly:
 
 [![How to easily integrate virtual agents in Power Platform](http://img.youtube.com/vi/uWjgjaTAtII/0.jpg)](http://www.youtube.com/watch?v=uWjgjaTAtII "How to easily integrate virtual agents in Power Platform.")
+
+
+### Adding Mixed Reality to PowerApps:
+[![How to add Mixed Reality feature to PowerApps](https://img.youtu.be/vi/2PzYvvmtAVs/0.jpg)]
+(https://youtu.be/2PzYvvmtAVs "How to add Mixed Reality feature to PowerApps.")

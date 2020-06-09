@@ -1,0 +1,21 @@
+#formula for the button
+If(chkLanguage.Value=true,
+
+ClearCollect(languageCollect, TextAnalytics.DetectLanguage({numberOfLanguagesToDetect:1, text:tiTextToAnalyze.Text}).detectedLanguages.name)
+
+);
+
+If(chkSentiment.Value=true,
+
+ClearCollect(sentimentCollect, TextAnalytics.DetectSentiment({language:"en", text:tiTextToAnalyze.Text}).score)
+
+)
+
+
+
+#formula for language checkbox(chkLanguage)
+"The language detected is " & First(languageCollect).name
+
+
+#formula for sentiment checkbox(chKSentiment)
+"The sentiment score is " & Round(First(sentimentCollect.Value).Value, 3)*100 & "% positive

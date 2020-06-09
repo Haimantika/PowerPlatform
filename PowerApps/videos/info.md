@@ -18,3 +18,5 @@
 ### Adding Mixed Reality to PowerApps:
 [![How to add Mixed Reality feature to PowerApps](https://img.youtube.com/vi/2PzYvvmtAVs/0.jpg)](https://youtu.be/2PzYvvmtAVs "How to add Mixed Reality feature to PowerApps.")
 
+### Use Sentiment Analysis in PowerApp using Azure's Text Analytics:
+[![How to add Sentiment Analysis in your PowerApps](https://img.youtube.com/vi/Vu5gu4qvXGs)](https://youtu.be/Vu5gu4qvXGs "How to add Sentiment Analysis in your PowerApps. ")

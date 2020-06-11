@@ -17,7 +17,7 @@ From formulas to learning paths to tutorial videos by every Power Platform enthu
  
 
 ##### To contribute follow the guidelines in [Contributors.md](Contributor.md)
- 
+ [![](https://sourcerer.io/fame/Haimantika/Haimantika/PowerPlatform/images/0)](https://sourcerer.io/fame/Haimantika/Haimantika/PowerPlatform/links/0)[![](https://sourcerer.io/fame/Haimantika/Haimantika/PowerPlatform/images/1)](https://sourcerer.io/fame/Haimantika/Haimantika/PowerPlatform/links/1)[![](https://sourcerer.io/fame/Haimantika/Haimantika/PowerPlatform/images/2)](https://sourcerer.io/fame/Haimantika/Haimantika/PowerPlatform/links/2)[![](https://sourcerer.io/fame/Haimantika/Haimantika/PowerPlatform/images/3)](https://sourcerer.io/fame/Haimantika/Haimantika/PowerPlatform/links/3)[![](https://sourcerer.io/fame/Haimantika/Haimantika/PowerPlatform/images/4)](https://sourcerer.io/fame/Haimantika/Haimantika/PowerPlatform/links/4)[![](https://sourcerer.io/fame/Haimantika/Haimantika/PowerPlatform/images/5)](https://sourcerer.io/fame/Haimantika/Haimantika/PowerPlatform/links/5)[![](https://sourcerer.io/fame/Haimantika/Haimantika/PowerPlatform/images/6)](https://sourcerer.io/fame/Haimantika/Haimantika/PowerPlatform/links/6)[![](https://sourcerer.io/fame/Haimantika/Haimantika/PowerPlatform/images/7)](https://sourcerer.io/fame/Haimantika/Haimantika/PowerPlatform/links/7)
  
  
  **Everyone is welcome to [contribute](Contributor.md). Let us spread the word #LessCodeMorePower**

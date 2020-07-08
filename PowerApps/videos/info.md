@@ -20,3 +20,9 @@
 
 ### Add Sentiment Ananlysis to your PowerApp using Azure's Text Analytics:
 [![How to add Sentiment Analysis to PowerApps](https://img.youtube.com/vi/Vu5gu4qvXGs/0.jpg)](https://youtu.be/Vu5gu4qvXGs "How to add Sentiment Analysis in your PowerApps. ")
+
+### Adding components to your PowerApp:
+[![How to build and use components in PowerApps](https://img.youtube.com/vi/aJRWn3XP9eI/0.jpg)](https://youtu.be/aJRWn3XP9eI "How to build and use components in PowerApps. ")
+
+### Forumal Wednesday:
+.[![Formulas that come handy](https://img.youtube.com/vi/ANaJ7z7ufDk/0.jpg)](https://youtu.be/ANaJ7z7ufDk "Formulas that come handy ")

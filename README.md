@@ -2,6 +2,7 @@
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Haimantika/PowerPlatform/graphs/commit-activity) [![made-for-Power-Platform](https://img.shields.io/badge/Made%20for-PowerPlatform-1f425f.svg)](https://powerplatform.microsoft.com/en-in/) [![GitHub issues](https://img.shields.io/github/issues/Haimantika/PowerPlatform)](https://github.com/Haimantika/PowerPlatform/issues)
 [![GitHub forks](https://img.shields.io/github/forks/Haimantika/PowerPlatform?style=social)](https://github.com/Haimantika/PowerPlatform/network) [![GitHub stars](https://img.shields.io/github/stars/Haimantika/PowerPlatform?style=social)](https://github.com/Haimantika/PowerPlatform/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![HitCount](http://hits.dwyl.com/haimantika/PowerPlatform.svg)](http://hits.dwyl.com/haimantika/PowerPlatform)
 
 
 In this repo, I will uploading every article relevant to the Power Platform.

@@ -28,4 +28,4 @@
 .[![Formulas that come handy](https://img.youtube.com/vi/ANaJ7z7ufDk/0.jpg)](https://youtu.be/ANaJ7z7ufDk "Formulas that come handy ")
 
 ### Miscellaneous Friday:
-.[![Trying out new things in Power Platform](https://img.youtu.be/vi/C7IZRIzA_ng/0.jpg)](https://youtu.be/C7IZRIzA_ng "Trying out new things in Power Platform)
+.[![Trying out new things in Power Platform](https://https://img.youtu.be/vi/gOymYZZwJrM/0.jpg)](https://youtu.be/gOymYZZwJrM "Trying out new things in Power Platform")

@@ -24,5 +24,8 @@
 ### Adding components to your PowerApp:
 [![How to build and use components in PowerApps](https://img.youtube.com/vi/aJRWn3XP9eI/0.jpg)](https://youtu.be/aJRWn3XP9eI "How to build and use components in PowerApps. ")
 
-### Forumal Wednesday:
+### Formula Wednesday:
 .[![Formulas that come handy](https://img.youtube.com/vi/ANaJ7z7ufDk/0.jpg)](https://youtu.be/ANaJ7z7ufDk "Formulas that come handy ")
+
+### Miscellaneous Friday:
+.[![Trying out new things in Power Platform](https://img.youtu.be/vi/C7IZRIzA_ng/0.jpg)](https://youtu.be/C7IZRIzA_ng "Trying out new things in Power Platform)
